@@ -1,1 +1,1 @@
-django rest-frameword demo
+django rest-framework demo
