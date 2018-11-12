@@ -1,1 +1,2 @@
-django rest-framework demo
+django demo
+use python3.6
